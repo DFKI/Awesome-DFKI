@@ -38,10 +38,14 @@ A curated list of awesome DFKI GitLabs, Groups and Projects. - Feel free to add 
 
 ## Internal GitLabs
 
+To log into these GitLabs, one needs a LDAP/AD login with the DFKI.
+
 -   [git.opendfki.de](https://git.opendfki.de/)
     -   [Full list of public projects](https://git.opendfki.de/explore/projects/starred?visibility_level=20)
 -   [iml-gitlab.sb.dfki.de](https://iml-gitlab.sb.dfki.de/)
     -   [(No public projects)](https://iml-gitlab.sb.dfki.de/explore/projects/starred?visibility_level=20)
+-   [git.ni.dfki.de](https://git.ni.dfki.de)
+    -   [(No public projects)](https://git.ni.dfki.de/explore?sort=name_asc&visibility_level=20)
 
 ## Private GitLabs
 
