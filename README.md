@@ -12,7 +12,7 @@ A curated list of awesome DFKI GitLabs, Groups and Projects. - Feel free to add 
         -   [DFKI Team on Sign Language](https://github.com/DFKI-SignLanguage)
         -   [DFKI MultiModal Interaction Group](https://github.com/mmig)
             -   [Demo project for the MMIR framework](https://github.com/mmig/mmir-starter-kit)
-        -   [Agora Ecosystem](Agora Ecosystem is a Data Science Marketplace infrastructure project from DIMA (TU- Berlin) and IAM (DFKI))
+        -   [Agora Ecosystem - A Data Science Marketplace infrastructure project from DIMA (TU- Berlin) and IAM (DFKI)](https://github.com/agora-ecosystem)
 
     -   DFKI Site Bremen - DFKI Standort Bremen
         -   [Robotics Innovation Center](https://github.com/dfki-ric)
