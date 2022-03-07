@@ -17,15 +17,15 @@ These are organizations of DFKI groups and their (notable) open-source projects:
         -   [Agora Ecosystem](https://github.com/agora-ecosystem) - A Data Science Marketplace infrastructure project from DIMA (TU- Berlin) and IAM (DFKI)
 
     -   DFKI Site Bremen - DFKI Standort Bremen
-        -   [Robotics Innovation Center](https://github.com/dfki-ric)
+        -   [DFKI RIC](https://github.com/dfki-ric) - DFKI's Robotics Innovation Center
             -   [ROCK](https://www.rock-robotics.org/) - the Robot Construction Kit
             -   [Alexander Fabisch](https://github.com/AlexanderFabisch)
                 -   [Gaussian Mixture Regression](https://github.com/AlexanderFabisch/gmr)
             -   [DFKI RIC Underactuated Lab](https://github.com/dfki-ric-underactuated-lab)
                 -   [Torque Limited Simple Pendulum](https://github.com/dfki-ric-underactuated-lab/torque_limited_simple_pendulum)
+            -   [HelloRIC](https://github.com/helloric)
+                -   [Image Pipeline](https://github.com/helloric/image_pipeline) - An image processing pipeline for ROS
         -   [DFKI CPS](https://github.com/DFKI-CPS) - DFKI's Cyber-Physical Systems Group
-        -   [HelloRIC](https://github.com/helloric)
-            -   [Image Pipeline](https://github.com/helloric/image_pipeline) - An image processing pipeline for ROS
         -   [B-Human](https://github.com/bhuman)
             -   [A physical robotics simulator](https://github.com/bhuman/SimRobot)
         -   [Envire](https://github.com/envire) - Environment Representation package to represent information of the environment for a robotic system
