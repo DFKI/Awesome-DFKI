@@ -45,9 +45,9 @@ These are organizations of DFKI groups and their (notable) open-source projects:
                 -   [MSP](https://github.com/DFKI-Interactive-Machine-Learning/multisensor-pipeline) - Multisensor Pipeline
                 -   [Digital Ink Features](https://github.com/DFKI-Interactive-Machine-Learning/ink-features)
         -   Oldenburg
-            -   MAP - Marine Perception
+            -   MAP - DFKI's Marine Perception group
         -   Osnabrück
-            -   DFKI PBS - Planbasierte Robotersteuerung
+            -   DFKI PBS - DFKI's Planbasierte Robotersteuerung group
                 -   [CDFF](https://gitlab.com/h2020src/og3) - A Common Data Fusion Framework For Space Robotics
 
     -   DFKI Site Saarbrücken - Standort Saarbrücken
