@@ -25,7 +25,7 @@ These are organizations of DFKI groups and their (notable) open-source projects:
                 -   [Torque Limited Simple Pendulum](https://github.com/dfki-ric-underactuated-lab/torque_limited_simple_pendulum)
         -   [CPS](https://github.com/DFKI-CPS) - DFKI's Cyber-Physical Systems Group
         -   [HelloRIC](https://github.com/helloric)
-            -   [Image Pipeline - An image processing pipeline for ROS](https://github.com/helloric/image_pipeline)
+            -   [Image Pipeline](https://github.com/helloric/image_pipeline) - An image processing pipeline for ROS
         -   [B-Human](https://github.com/bhuman)
             -   [A physical robotics simulator](https://github.com/bhuman/SimRobot)
         -   [Envire](https://github.com/envire) - Environment Representation package to represent information of the environment for a robotic system
@@ -38,7 +38,7 @@ These are organizations of DFKI groups and their (notable) open-source projects:
         -   [DFKI AV](https://github.com/dfki-av) - DFKI's Augmented Vision Group
         -   [DFKI IUI](https://github.com/dfki-iui) - DFKI's Intelligent User Interfaces Group
 
-    -   [DFKI Laboratory Lower Saxony Laboratory - Labor Niedersachsen](https://github.com/DFKI-NI)
+    -   [DFKI Laboratory Lower Saxony Laboratory](https://github.com/DFKI-NI) - Labor Niedersachsen
         -   Oldenburg/Saarbrücken
             -   [DFKI IML](https://github.com/DFKI-Interactive-Machine-Learning) - DFKI's Interactive Machine Learning Group
                 -   [TIML](https://github.com/DFKI-Interactive-Machine-Learning/TIML/) - Toolkit for Interactive Machine Learning
