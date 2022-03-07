@@ -74,5 +74,5 @@ To log into these GitLabs, one needs a LDAP/AD login with the DFKI.
 
 ## Private GitLabs
 
--   [IRL GitLab](irl-git.dfki.de)
+-   [IRL GitLab](https://irl-git.dfki.de/)
 -   [UMTL GitLab](https://umtl-git.dfki.de/)
