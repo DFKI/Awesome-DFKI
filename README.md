@@ -10,7 +10,7 @@ These are organizations of DFKI groups and their (notable) open-source projects:
 
     -   DFKI Project Office Berlin - Projektbüro Berlin
         -   [DFKI SLT](https://github.com/DFKI-NLP) - DFKI's Speech and Language Technology Group
-        -   [Open Source Lab](https://github.com/open-source-lab-DFKI) - Open Source Lab for Sustainable Mobility
+        -   [Open Source Lab](https://github.com/open-source-lab-DFKI) - DFKI's Open Source Lab for Sustainable Mobility
         -   [DFKI Team on Sign Language](https://github.com/DFKI-SignLanguage)
         -   [DFKI MMIG](https://github.com/mmig) - DFKI's MultiModal Interaction Group
             -   [Demo project for the MMIR framework](https://github.com/mmig/mmir-starter-kit)
@@ -23,7 +23,7 @@ These are organizations of DFKI groups and their (notable) open-source projects:
                 -   [Gaussian Mixture Regression](https://github.com/AlexanderFabisch/gmr)
             -   [DFKI RIC Underactuated Lab](https://github.com/dfki-ric-underactuated-lab)
                 -   [Torque Limited Simple Pendulum](https://github.com/dfki-ric-underactuated-lab/torque_limited_simple_pendulum)
-        -   [CPS](https://github.com/DFKI-CPS) - DFKI's Cyber-Physical Systems Group
+        -   [DFKI CPS](https://github.com/DFKI-CPS) - DFKI's Cyber-Physical Systems Group
         -   [HelloRIC](https://github.com/helloric)
             -   [Image Pipeline](https://github.com/helloric/image_pipeline) - An image processing pipeline for ROS
         -   [B-Human](https://github.com/bhuman)
@@ -49,8 +49,8 @@ These are organizations of DFKI groups and their (notable) open-source projects:
                 -   [A Common Data Fusion Framework For Space Robotics](https://gitlab.com/h2020src/og3)
 
     -   DFKI Site Saarbrücken - Standort Saarbrücken
-        -   [DFKI Agents and Simulated Reality](https://github.com/dfki-asr)
-        -   [Multilingual Technologies Department](https://github.com/DFKI-MLT)
+        -   [DFKI ASR](https://github.com/dfki-asr) - DFKI's Agents and Simulated Reality Group
+        -   [DFKI MLT](https://github.com/DFKI-MLT) - DFKI's Multilingual Technologies Department
             -   [TransIns](https://github.com/DFKI-MLT/TransIns) - Document Translation with Markup Reinsertion
         -   DFKI COS
             -   [DFKI AID](https://github.com/DFKI-AID) - DFKI's Adaptive Interfaces and Dialog Team
@@ -61,7 +61,7 @@ These are organizations of DFKI groups and their (notable) open-source projects:
     ---
 
     -   [DFKI BDT](https://github.com/DFKI-BDT) - DFKI's BDT group
-    -   [DFKI-SLT](https://github.com/DFKI-SLT) - DFKI's SLT group
+    -   [DFKI SLT](https://github.com/DFKI-SLT) - DFKI's SLT group
 
 ## Internal GitLabs
 
