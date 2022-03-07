@@ -44,7 +44,9 @@ These are organizations of DFKI groups and their (notable) open-source projects:
                 -   [TIML](https://github.com/DFKI-Interactive-Machine-Learning/TIML/) - Toolkit for Interactive Machine Learning
                 -   [MSP](https://github.com/DFKI-Interactive-Machine-Learning/multisensor-pipeline) - Multisensor Pipeline
                 -   [Digital Ink Features](https://github.com/DFKI-Interactive-Machine-Learning/ink-features)
+        -   Oldenburg
             -   MAP - Marine Perception
+        -   Osnabrück
             -   DFKI PBS - Planbasierte Robotersteuerung
                 -   [CDFF](https://gitlab.com/h2020src/og3) - A Common Data Fusion Framework For Space Robotics
 
