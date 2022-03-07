@@ -46,7 +46,7 @@ These are organizations of DFKI groups and their (notable) open-source projects:
                 -   [Digital Ink Features](https://github.com/DFKI-Interactive-Machine-Learning/ink-features)
             -   MAP - Marine Perception
             -   DFKI PBS - Planbasierte Robotersteuerung
-                -   [A Common Data Fusion Framework For Space Robotics](https://gitlab.com/h2020src/og3)
+                -   [CDFF](https://gitlab.com/h2020src/og3) - A Common Data Fusion Framework For Space Robotics
 
     -   DFKI Site Saarbrücken - Standort Saarbrücken
         -   [DFKI ASR](https://github.com/dfki-asr) - DFKI's Agents and Simulated Reality Group
