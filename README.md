@@ -34,6 +34,7 @@ A curated list of awesome DFKI GitLabs, Groups and Projects. - Feel free to add 
             -   [dfki.litres-app](https://github.com/PascalReuss/dfki.litres-app)
         -   [MaryTTS](https://github.com/marytts)
         -   [Augmented Vision](https://github.com/dfki-av)
+        -   [DFKI IUI](https://github.com/dfki-iui) - DFKI's Intelligent User Interfaces Group
 
     -   [DFKI Laboratory Lower Saxony Laboratory - Labor Niedersachsen](https://github.com/DFKI-NI)
         -   Oldenburg/Saarbrücken
@@ -51,15 +52,14 @@ A curated list of awesome DFKI GitLabs, Groups and Projects. - Feel free to add 
             -   [TransIns - Document Translation with Markup Reinsertion](https://github.com/DFKI-MLT/TransIns)
         -   COS
             -   [Adaptive Interfaces and Dialog Team](https://github.com/DFKI-AID)
+        -   [DFKI IKS](https://github.com/DFKI-IKS) - DFKI's IKS group
 
     -   DFKI Branch Lübeck - DFKI Außenstelle Lübeck
 
     ---
 
-    -   [DFKI BDT](https://github.com/DFKI-BDT)
-    -   [DFKI IKS](https://github.com/DFKI-IKS)
-    -   [DFKI-SLT](https://github.com/DFKI-SLT)
-    -   [Intelligent User Interfaces Group](https://github.com/dfki-iui)
+    -   [DFKI BDT](https://github.com/DFKI-BDT) - DFKI's BDT group
+    -   [DFKI-SLT](https://github.com/DFKI-SLT) - DFKI's SLT group
 
 ## Internal GitLabs
 
