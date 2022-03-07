@@ -4,6 +4,8 @@ A curated list of awesome DFKI GitLabs, Groups and Projects. - Feel free to add 
 
 ## Public Groups and Projects
 
+These are organizations of DFKI groups and their (notable) open-source projects:
+
 -   [DFKI - Deutsches Forschungszentrum für Künstliche Intelligenz](https://github.com/DFKI)
 
     -   DFKI Project Office Berlin - Projektbüro Berlin
@@ -63,7 +65,7 @@ A curated list of awesome DFKI GitLabs, Groups and Projects. - Feel free to add 
 
 ## Internal GitLabs
 
-To log into these GitLabs, one needs a LDAP/AD login with the DFKI.
+To log into these GitLabs, one needs a LDAP/AD login with the DFKI:
 
 -   [git.opendfki.de](https://git.opendfki.de/)
     -   [Full list of public projects](https://git.opendfki.de/explore/projects/starred?visibility_level=20)
@@ -73,6 +75,8 @@ To log into these GitLabs, one needs a LDAP/AD login with the DFKI.
     -   [(No public projects)](https://git.ni.dfki.de/explore?sort=name_asc&visibility_level=20)
 
 ## Private GitLabs
+
+To access these GitLabs, someone inside the DFKI needs to create an accout for you:
 
 -   [IRL GitLab](https://irl-git.dfki.de/)
 -   [UMTL GitLab](https://umtl-git.dfki.de/)
