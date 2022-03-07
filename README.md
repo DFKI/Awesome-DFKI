@@ -27,7 +27,7 @@ These are organizations of DFKI groups and their (notable) open-source projects:
                 -   [Image Pipeline](https://github.com/helloric/image_pipeline) - An image processing pipeline for ROS
         -   [DFKI CPS](https://github.com/DFKI-CPS) - DFKI's Cyber-Physical Systems Group
         -   [B-Human](https://github.com/bhuman)
-            -   [A physical robotics simulator](https://github.com/bhuman/SimRobot)
+            -   [SimRobot](https://github.com/bhuman/SimRobot) - A physical robotics simulator
         -   [Envire](https://github.com/envire) - Environment Representation package to represent information of the environment for a robotic system
         -   [The Project Avalon](https://github.com/auv-avalon)
 
