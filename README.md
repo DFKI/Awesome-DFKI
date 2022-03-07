@@ -13,7 +13,7 @@ These are organizations of DFKI groups and their (notable) open-source projects:
         -   [Open Source Lab](https://github.com/open-source-lab-DFKI) - DFKI's Open Source Lab for Sustainable Mobility
         -   [DFKI Team on Sign Language](https://github.com/DFKI-SignLanguage)
         -   [DFKI MMIG](https://github.com/mmig) - DFKI's MultiModal Interaction Group
-            -   [Demo project for the MMIR framework](https://github.com/mmig/mmir-starter-kit)
+            -   [MMIR Starter Kit](https://github.com/mmig/mmir-starter-kit) - Demo project for the MMIR framework
         -   [Agora Ecosystem](https://github.com/agora-ecosystem) - A Data Science Marketplace infrastructure project from DIMA (TU- Berlin) and IAM (DFKI)
 
     -   DFKI Site Bremen - DFKI Standort Bremen
