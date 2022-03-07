@@ -38,7 +38,7 @@ These are organizations of DFKI groups and their (notable) open-source projects:
         -   [DFKI AV](https://github.com/dfki-av) - DFKI's Augmented Vision Group
         -   [DFKI IUI](https://github.com/dfki-iui) - DFKI's Intelligent User Interfaces Group
 
-    -   [DFKI Laboratory Lower Saxony Laboratory](https://github.com/DFKI-NI) - Labor Niedersachsen
+    -   [DFKI Laboratory Lower Saxony](https://github.com/DFKI-NI) - Labor Niedersachsen
         -   Oldenburg/Saarbrücken
             -   [DFKI IML](https://github.com/DFKI-Interactive-Machine-Learning) - DFKI's Interactive Machine Learning Group
                 -   [TIML](https://github.com/DFKI-Interactive-Machine-Learning/TIML/) - Toolkit for Interactive Machine Learning
