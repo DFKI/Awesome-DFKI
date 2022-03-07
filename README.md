@@ -51,9 +51,9 @@ These are organizations of DFKI groups and their (notable) open-source projects:
     -   DFKI Site Saarbrücken - Standort Saarbrücken
         -   [DFKI Agents and Simulated Reality](https://github.com/dfki-asr)
         -   [Multilingual Technologies Department](https://github.com/DFKI-MLT)
-            -   [TransIns - Document Translation with Markup Reinsertion](https://github.com/DFKI-MLT/TransIns)
+            -   [TransIns](https://github.com/DFKI-MLT/TransIns) - Document Translation with Markup Reinsertion
         -   DFKI COS
-            -   [Adaptive Interfaces and Dialog Team](https://github.com/DFKI-AID)
+            -   [DFKI AID](https://github.com/DFKI-AID) - DFKI's Adaptive Interfaces and Dialog Team
         -   [DFKI IKS](https://github.com/DFKI-IKS) - DFKI's IKS group
 
     -   DFKI Branch Lübeck - DFKI Außenstelle Lübeck
