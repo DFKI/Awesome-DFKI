@@ -7,6 +7,12 @@ A curated list of awesome DFKI GitLabs, Groups and Projects. - Feel free to add 
 These are organizations of DFKI groups and their (notable) open-source projects:
 
 -   [DFKI](https://github.com/DFKI) - Deutsches Forschungszentrum für Künstliche Intelligenz
+    -   [CGHD](https://github.com/DFKI/cghd) - Circuit Graph Hand-Drawn
+    -   [RKI Data Diff](https://github.com/DFKI/RKI-Data-Diff) - Shell scripts to get a minimal set of SQL commands for persistent yet efficient storage of RKI data for COVID19
+        -   [RKI Data Diff](https://github.com/fnogatz/RKI-Data-Diff) - Same as before, but with billing enabled
+    -   [LeechCrawler](https://github.com/DFKI/leechcrawler) - Incremental crawling capabilities for Apache Tika
+
+    ---
 
     -   DFKI Project Office Berlin - Projektbüro Berlin
         -   [DFKI SLT](https://github.com/DFKI-NLP) - DFKI's Speech and Language Technology Group
@@ -60,10 +66,8 @@ These are organizations of DFKI groups and their (notable) open-source projects:
 
     -   DFKI Branch Lübeck - DFKI Außenstelle Lübeck
 
-    ---
-
-    -   [DFKI BDT](https://github.com/DFKI-BDT) - DFKI's BDT group
-    -   [DFKI SLT](https://github.com/DFKI-SLT) - DFKI's SLT group
+-   [DFKI BDT](https://github.com/DFKI-BDT) - DFKI's BDT group
+-   [DFKI SLT](https://github.com/DFKI-SLT) - DFKI's SLT group
 
 ## Internal GitLabs
 
