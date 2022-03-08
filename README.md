@@ -53,8 +53,8 @@ These are organizations of DFKI groups and their (notable) open-source projects 
         -   Oldenburg
             -   MAP - DFKI's Marine Perception group
         -   Osnabrück
-            -   DFKI PBS - DFKI's Planbasierte Robotersteuerung group
-                -   [CDFF](https://gitlab.com/h2020src/og3) - A Common Data Fusion Framework For Space Robotics
+            -   DFKI PBS - DFKI's research group on plan-based robot control
+            -   [CDFF](https://gitlab.com/h2020src/og3) - A Common Data Fusion Framework For Space Robotics
 
     -   DFKI Site Saarbrücken - Standort Saarbrücken
         -   [DFKI ASR](https://github.com/dfki-asr) - DFKI's Agents and Simulated Reality Group
