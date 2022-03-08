@@ -4,7 +4,7 @@ A curated list of awesome DFKI GitLabs, Groups and Projects. - Feel free to add 
 
 ## Public Groups and Projects on GitHub.com
 
-These are organizations of DFKI groups and their (notable) open-source projects:
+These are organizations of DFKI groups and their (notable) open-source projects on github.com:
 
 -   [DFKI](https://github.com/DFKI) - Deutsches Forschungszentrum für Künstliche Intelligenz
     -   [CGHD](https://github.com/DFKI/cghd) - Circuit Graph Hand-Drawn
@@ -69,7 +69,9 @@ These are organizations of DFKI groups and their (notable) open-source projects:
 -   [DFKI BDT](https://github.com/DFKI-BDT) - DFKI's BDT group
 -   [DFKI SLT](https://github.com/DFKI-SLT) - DFKI's SLT group
 
-## GitLab.com
+## Public Groups and Projects on GitLab.com
+
+These are organizations of DFKI groups and their (notable) open-source projects on GitLab.com:
 
 -   [DFKI](https://gitlab.com/dfki) - Top-level DFKI group
 
