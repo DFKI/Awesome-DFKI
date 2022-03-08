@@ -2,7 +2,7 @@
 
 A curated list of awesome DFKI GitLabs, Groups and Projects. - Feel free to add yours!
 
-## Public Groups and Projects
+## Public Groups and Projects on GitHub.com
 
 These are organizations of DFKI groups and their (notable) open-source projects:
 
@@ -68,6 +68,10 @@ These are organizations of DFKI groups and their (notable) open-source projects:
 
 -   [DFKI BDT](https://github.com/DFKI-BDT) - DFKI's BDT group
 -   [DFKI SLT](https://github.com/DFKI-SLT) - DFKI's SLT group
+
+## GitLab.com
+
+-   [DFKI](https://gitlab.com/dfki) - Top-level DFKI group
 
 ## Internal GitLabs
 
