@@ -42,7 +42,7 @@ These are organizations of DFKI groups and their (notable) open-source projects 
 			- [dfki.litres-app](https://github.com/PascalReuss/dfki.litres-app)
 		- [DFKI AV](https://github.com/dfki-av) - DFKI's Augmented Vision Group
 		- [DFKI IUI](https://github.com/dfki-iui) - DFKI's Intelligent User Interfaces Group
-		- [OCR-D](https://github.com/OCR-D), [OCR-D website](https://ocr-d.de/) - DFG-funded Initiative for Optical Character Recognition Development
+		- [ocrd_anybaseocr](https://github.com/OCR-D/ocrd_anybaseocr) - DFKI Layout Detection for [OCR-D](https://ocr-d.de/)
 
 	- [DFKI Laboratory Lower Saxony](https://github.com/DFKI-NI) - Labor Niedersachsen
 		- Oldenburg/Saarbrücken
