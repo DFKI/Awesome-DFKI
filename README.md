@@ -40,7 +40,6 @@ These are organizations of DFKI groups and their (notable) open-source projects 
     -   DFKI Site Kaiserslautern - DFKI Standort Kaiserslautern
         -   [Pascal Reuss](https://github.com/PascalReuss/)
             -   [dfki.litres-app](https://github.com/PascalReuss/dfki.litres-app)
-        -   [MaryTTS](https://github.com/marytts)
         -   [DFKI AV](https://github.com/dfki-av) - DFKI's Augmented Vision Group
         -   [DFKI IUI](https://github.com/dfki-iui) - DFKI's Intelligent User Interfaces Group
 
@@ -68,6 +67,8 @@ These are organizations of DFKI groups and their (notable) open-source projects 
 
 -   [DFKI BDT](https://github.com/DFKI-BDT) - DFKI's BDT group
 -   [DFKI SLT](https://github.com/DFKI-SLT) - DFKI's SLT group
+    -   [MaryTTS](https://github.com/marytts), [marytts.github.io](https://marytts.github.io/)
+
 
 ## Public Groups and Projects on GitLab.com
 
@@ -83,12 +84,27 @@ These are organizations of DFKI groups and their (notable) open-source projects 
     - [simplejpeg](https://gitlab.com/jfolz/simplejpeg) - A simple package based on recent versions of libturbojpeg for fast JPEG encoding and decoding.
     - [justlogs](https://gitlab.com/jfolz/justlogs) - Simple structured logging for humans in Go.
 
+## OpenDFKI
+
+OpenDFKI is a self-hosted platform for open source DFKI projects.
+Everyone can create an account.
+
+Most recent OpenDFKI projects can be found on the [git.opendfki.de](https://git.opendfki.de/) GitLab.
+Here a selection of some ([public projects](https://git.opendfki.de/explore/projects/starred?visibility_level=20)):
+- [DynaQ](https://git.opendfki.de/reuschling/dynaq) - "Dynamic Queries for document based, personal information spaces" is an inquiry system to explore textual information spaces, supporting the user with the search paradigm "orienteering".
+- [lodex](https://git.opendfki.de/reuschling/lodex) - Lodex-Linked Open Data Extraction Tool enables to extract large ontology vocabularies out of unstructured data such as document text or social network messages. It runs as service with freebase and DBPedia vocabularies. You can create own ontologies.
+- [GenIe](https://git.opendfki.de/reuschling/genie) - GenIe is a tool for genetic or evolutionary hyperparameter optimization with entropy analysis. It is written in Java, but can be used language independent with config files and fitness function process calls.
+- [myCBR](https://git.opendfki.de/mycbr) - An open-source similarity-based Case Based Reasoning retrieval tool and software development kit (also see [myCBR-project.org](http://mycbr-project.org/)).
+
+Older TRAC project can be found on [www.opendfki.de/trac](http://www.opendfki.de/trac/), such as:
+- [delight](https://delight.opendfki.de/trac/) - Using XML-RPC the easy way...
+- [ALOE](https://aloe.opendfki.de/), [ALOE website](http://aloe-project.de/) - The Social Resource and Metadata Hub
+
+
 ## Internal GitLabs
 
 To log into these GitLabs, one needs a LDAP/AD login with the DFKI:
 
--   [git.opendfki.de](https://git.opendfki.de/)
-    -   [Full list of public projects](https://git.opendfki.de/explore/projects/starred?visibility_level=20)
 -   [iml-gitlab.sb.dfki.de](https://iml-gitlab.sb.dfki.de/)
     -   [(No public projects)](https://iml-gitlab.sb.dfki.de/explore/projects/starred?visibility_level=20)
 -   [git.ni.dfki.de](https://git.ni.dfki.de)
