@@ -74,6 +74,14 @@ These are organizations of DFKI groups and their (notable) open-source projects 
 These are organizations of DFKI groups and their (notable) open-source projects on GitLab.com:
 
 -   [DFKI](https://gitlab.com/dfki) - Top-level DFKI group
+-   [Joachim Folz](https://gitlab.com/jfolz)
+    - [augpy](https://gitlab.com/jfolz/augpy) - Saturating math for Cuda/GPU supported data augmentation operations on tensors
+    - [crumpets](https://gitlab.com/jfolz/crumpets) - Fast and efficient data pre-processing and augmentation pipelines and training primitives for deep learning.
+    - [simplebloom](https://gitlab.com/jfolz/simplebloom) - A dumb but fast bloom filter.
+    - [datadings](https://gitlab.com/jfolz/datadings) - Highly efficient dataset preperation for machine learning: Download "unorganized" data and convert it into easy to handle and quick to read msgpack files.
+    - [YFCC100m](https://gitlab.com/jfolz/yfcc100m) - Package to download and use the YFCC100m dataset, optionally also convert it with datadings.
+    - [simplejpeg](https://gitlab.com/jfolz/simplejpeg) - A simple package based on recent versions of libturbojpeg for fast JPEG encoding and decoding.
+    - [justlogs](https://gitlab.com/jfolz/justlogs) - Simple structured logging for humans in Go.
 
 ## Internal GitLabs
 
