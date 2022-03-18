@@ -8,10 +8,15 @@ These are organizations of DFKI groups and their (notable) open-source projects 
 
 - [DFKI](https://github.com/DFKI) - Deutsches Forschungszentrum für Künstliche Intelligenz
 	- [CGHD](https://github.com/DFKI/cghd) - Circuit Graph Hand-Drawn
+		~"Site: KL" ~"Group: SDS"
 	- [RKI Data Diff](https://github.com/DFKI/RKI-Data-Diff) - Shell scripts to get a minimal set of SQL commands for persistent yet efficient storage of RKI data for COVID19
+		~"Site: KL" ~"Group: SDS" ~"Living Lab: SCLL"
 		- [RKI Data Diff](https://github.com/fnogatz/RKI-Data-Diff) - Same as before, but with GitHub Actions enabled
+			~"Site: KL" ~"Group: SDS" ~"Living Lab: SCLL"
 	- [LeechCrawler](https://github.com/DFKI/leechcrawler) - Incremental crawling capabilities for Apache Tika
+		~"Site: KL"
 	- [Repast-Simphony-Ant](https://github.com/DFKI/Repast-Simphony-Ant) - Guide to run and build Repast Simphony Models without Eclipse
+		~"Site: KL" ~"Group: SDS"
 
 	---
 
