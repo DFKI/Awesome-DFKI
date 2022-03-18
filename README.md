@@ -89,6 +89,8 @@ These are organizations of DFKI groups and their (notable) open-source projects 
 
 - [DFKI](https://gitlab.com/dfki) - Top-level DFKI group
 - [Joachim Folz](https://gitlab.com/jfolz)
+	![](https://img.shields.io/github/labels/DFKI/Awesome-DFKI/Site%3A%20KL)
+	![](https://img.shields.io/github/labels/DFKI/Awesome-DFKI/Group%3A%20SDS)
 	- [augpy](https://gitlab.com/jfolz/augpy) - Saturating math for Cuda/GPU supported data augmentation operations on tensors
 	- [crumpets](https://gitlab.com/jfolz/crumpets) - Fast and efficient data pre-processing and augmentation pipelines and training primitives for deep learning.
 	- [simplebloom](https://gitlab.com/jfolz/simplebloom) - A dumb but fast bloom filter.
