@@ -77,6 +77,7 @@ These are organizations of DFKI groups and their (notable) open-source projects 
 These are organizations of DFKI groups and their (notable) open-source projects on GitLab.com:
 
 - [DFKI](https://gitlab.com/dfki) - Top-level DFKI group
+	- [VR.Configuration](https://gitlab.com/dfki/fb/ni/ol/iml/vr/vr.configuration) - A configuration management system for Python projects.
 - [Joachim Folz](https://gitlab.com/jfolz)
 	- [augpy](https://gitlab.com/jfolz/augpy) - Saturating math for Cuda/GPU supported data augmentation operations on tensors
 	- [crumpets](https://gitlab.com/jfolz/crumpets) - Fast and efficient data pre-processing and augmentation pipelines and training primitives for deep learning.
