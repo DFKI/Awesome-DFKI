@@ -119,3 +119,10 @@ To access these GitLabs, someone inside the DFKI needs to create an accout for y
 
 - [IRL GitLab](https://irl-git.dfki.de/)
 - [UMTL GitLab](https://umtl-git.dfki.de/)
+
+## Public GitLabs
+
+These GitLabs are open access.
+
+- [RLP Gitlab](https://gitlab.rlp.net/)
+	- [ProCAKE Framework](https://gitlab.rlp.net/procake/procake-framework) - ProCAKE - The Process-Oriented Case-Based Knowledge Engine of the CAKE framework constitutes a domain-independent framework that can be used to implement diverse structural or process-oriented case-based reasoning applications for integrated process and knowledge management. (also see [procake.uni-trier.de](https://procake.uni-trier.de)).
