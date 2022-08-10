@@ -61,6 +61,7 @@ These are organizations of DFKI groups and their (notable) open-source projects 
 		- [DFKI ASR](https://github.com/dfki-asr) - DFKI's Agents and Simulated Reality Group
 		- [DFKI MLT](https://github.com/DFKI-MLT) - DFKI's Multilingual Technologies Department
 			- [TransIns](https://github.com/DFKI-MLT/TransIns) - Document Translation with Markup Reinsertion
+			- [MaryTTS](https://github.com/marytts), [marytts.github.io](https://marytts.github.io/)
 		- DFKI COS
 			- [DFKI AID](https://github.com/DFKI-AID) - DFKI's Adaptive Interfaces and Dialog Team
 		- [DFKI IKS](https://github.com/DFKI-IKS) - DFKI's IKS group
@@ -69,7 +70,6 @@ These are organizations of DFKI groups and their (notable) open-source projects 
 
 - [DFKI BDT](https://github.com/DFKI-BDT) - DFKI's BDT group
 - [DFKI SLT](https://github.com/DFKI-SLT) - DFKI's SLT group
-	- [MaryTTS](https://github.com/marytts), [marytts.github.io](https://marytts.github.io/)
 
 
 ## Public Groups and Projects on GitLab.com
