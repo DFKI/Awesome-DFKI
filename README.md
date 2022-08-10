@@ -69,7 +69,6 @@ These are organizations of DFKI groups and their (notable) open-source projects 
 	- DFKI Branch Lübeck - DFKI Außenstelle Lübeck
 
 - [DFKI BDT](https://github.com/DFKI-BDT) - DFKI's BDT group
-- [DFKI SLT](https://github.com/DFKI-SLT) - DFKI's SLT group
 
 
 ## Public Groups and Projects on GitLab.com
