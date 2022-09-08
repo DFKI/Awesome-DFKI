@@ -24,20 +24,28 @@ These are organizations of DFKI groups and their (notable) open-source projects 
 		- [Agora Ecosystem](https://github.com/agora-ecosystem) - A Data Science Marketplace infrastructure project from DIMA (TU- Berlin) and IAM (DFKI)
 
 	- DFKI Site Bremen - DFKI Standort Bremen
+	        
 		- [DFKI RIC](https://github.com/dfki-ric) - DFKI's Robotics Innovation Center
+		  	- [List of maintianed OSS projects by DFKI RIC](https://dfki-ric.github.io/)
 			- [ROCK](https://www.rock-robotics.org/) - the Robot Construction Kit
 			- [Alexander Fabisch](https://github.com/AlexanderFabisch)
-				- [Gaussian Mixture Regression](https://github.com/AlexanderFabisch/gmr)
+			- [Gaussian Mixture Regression](https://github.com/AlexanderFabisch/gmr)
 			- [DFKI RIC Underactuated Lab](https://github.com/dfki-ric-underactuated-lab)
 				- [Torque Limited Simple Pendulum](https://github.com/dfki-ric-underactuated-lab/torque_limited_simple_pendulum)
 			- [HelloRIC](https://github.com/helloric)
 				- [Image Pipeline](https://github.com/helloric/image_pipeline) - An image processing pipeline for ROS
 			- [CDFF](https://gitlab.com/h2020src/og3) - A Common Data Fusion Framework For Space Robotics
+			- [ARC-OPT](https://github.com/ARC-OPT/) - Adaptive Robot Control using Optimization
+			- [pySPACE](http://pyspace.github.io/pyspace/) Signal Processing And Classification Environment (SPACE) written in Python (py)
+			- [Envire](https://github.com/envire) - Environment Representation package to represent information of the environment for a robotic system
+			- [PAZ](https://github.com/oarriaga/paz) - Hierarchical perception library in Python
+			- [MARS](https://rock-simulation.github.io/mars/) - MARS (Machina Arte Robotum Simulans) is a cross-platform simulation and visualisation tool created for robotics research
+			- [The Project Avalon](https://github.com/auv-avalon)
 		- [DFKI CPS](https://github.com/DFKI-CPS) - DFKI's Cyber-Physical Systems Group
-		- [B-Human](https://github.com/bhuman)
+			- [B-Human](https://github.com/bhuman)
 			- [SimRobot](https://github.com/bhuman/SimRobot) - A physical robotics simulator
-		- [Envire](https://github.com/envire) - Environment Representation package to represent information of the environment for a robotic system
-		- [The Project Avalon](https://github.com/auv-avalon)
+		
+		
 
 	- DFKI Site Kaiserslautern - DFKI Standort Kaiserslautern
 		- [Pascal Reuss](https://github.com/PascalReuss/)
