@@ -31,7 +31,6 @@ These are organizations of DFKI groups and their (notable) open-source projects 
 			- [DFKI RIC Underactuated Lab](https://github.com/dfki-ric-underactuated-lab)
 				- [Torque Limited Simple Pendulum](https://github.com/dfki-ric-underactuated-lab/torque_limited_simple_pendulum)
 			- [HelloRIC](https://github.com/helloric)
-				- [Image Pipeline](https://github.com/helloric/image_pipeline) - An image processing pipeline for ROS
 			- [CDFF](https://gitlab.com/h2020src/og3) - A Common Data Fusion Framework For Space Robotics
 		- [DFKI CPS](https://github.com/DFKI-CPS) - DFKI's Cyber-Physical Systems Group
 		- [B-Human](https://github.com/bhuman)
