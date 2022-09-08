@@ -29,7 +29,7 @@ These are organizations of DFKI groups and their (notable) open-source projects 
 		  	- [List of maintianed OSS projects by DFKI RIC](https://dfki-ric.github.io/)
 			- [ROCK](https://www.rock-robotics.org/) - the Robot Construction Kit
 			- [Alexander Fabisch](https://github.com/AlexanderFabisch)
-			- [Gaussian Mixture Regression](https://github.com/AlexanderFabisch/gmr)
+				- [Gaussian Mixture Regression](https://github.com/AlexanderFabisch/gmr)
 			- [DFKI RIC Underactuated Lab](https://github.com/dfki-ric-underactuated-lab)
 				- [Torque Limited Simple Pendulum](https://github.com/dfki-ric-underactuated-lab/torque_limited_simple_pendulum)
 			- [HelloRIC](https://github.com/helloric)
