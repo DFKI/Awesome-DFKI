@@ -46,16 +46,17 @@ These are organizations of DFKI groups and their (notable) open-source projects 
 		- [DFKI IUI](https://github.com/dfki-iui) - DFKI's Intelligent User Interfaces Group
 		- [ocrd_anybaseocr](https://github.com/OCR-D/ocrd_anybaseocr) - DFKI Layout Detection for [OCR-D](https://ocr-d.de/)
 
-	- [DFKI Laboratory Lower Saxony](https://github.com/DFKI-NI) - Labor Niedersachsen
+	- [DFKI Site Niedersachsen](https://github.com/DFKI-NI) - DFKI Standort Niedersachsen
 		- Oldenburg/Saarbrücken
 			- [DFKI IML](https://github.com/DFKI-Interactive-Machine-Learning) - DFKI's Interactive Machine Learning Group
 				- [TIML](https://github.com/DFKI-Interactive-Machine-Learning/TIML/) - Toolkit for Interactive Machine Learning
 				- [MSP](https://github.com/DFKI-Interactive-Machine-Learning/multisensor-pipeline) - Multisensor Pipeline
 				- [Digital Ink Features](https://github.com/DFKI-Interactive-Machine-Learning/ink-features)
 		- Oldenburg
-			- MAP - DFKI's Marine Perception group
+			- DFKI MAP - DFKI's Marine Perception group
 		- Osnabrück
-			- DFKI PBS - DFKI's research group on plan-based robot control
+			- DFKI PBR - DFKI's Plan-Based Robot control group
+			- DFKI SEE - DFKI's Smart Enterprise Engineering group
 
 	- DFKI Site Saarbrücken - Standort Saarbrücken
 		- [DFKI ASR](https://github.com/dfki-asr) - DFKI's Agents and Simulated Reality Group
