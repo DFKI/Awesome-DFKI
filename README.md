@@ -35,7 +35,7 @@ These are organizations of DFKI groups and their (notable) open-source projects 
 			- [HelloRIC](https://github.com/helloric)
 			- [CDFF](https://gitlab.com/h2020src/og3) - A Common Data Fusion Framework For Space Robotics
 			- [ARC-OPT](https://github.com/ARC-OPT/) - Adaptive Robot Control using Optimization
-			- [pySPACE](http://pyspace.github.io/pyspace/) Signal Processing And Classification Environment (SPACE) written in Python (py)
+			- [pySPACE](http://pyspace.github.io/pyspace/) - Signal Processing And Classification Environment (SPACE) written in Python (py)
 			- [Envire](https://github.com/envire) - Environment Representation package to represent information of the environment for a robotic system
 			- [PAZ](https://github.com/oarriaga/paz) - Hierarchical perception library in Python
 			- [MARS](https://rock-simulation.github.io/mars/) - MARS (Machina Arte Robotum Simulans) is a cross-platform simulation and visualisation tool created for robotics research
