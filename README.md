@@ -85,6 +85,7 @@ These are organizations of DFKI groups and their (notable) open-source projects 
 
 - [DFKI](https://gitlab.com/dfki) - Top-level DFKI group
 	- [VR.Configuration](https://gitlab.com/dfki/fb/ni/ol/iml/vr/vr.configuration) - A configuration management system for Python projects.
+	- [VR.Delaunay-to-Voronoi](https://gitlab.com/dfki/fb/ni/ol/iml/vr/vr.delaunay-to-voronoi) - Convert from Delaunay tesselation to Voronoi triangulation.
 - [Joachim Folz](https://gitlab.com/jfolz)
 	- [augpy](https://gitlab.com/jfolz/augpy) - Saturating math for Cuda/GPU supported data augmentation operations on tensors
 	- [crumpets](https://gitlab.com/jfolz/crumpets) - Fast and efficient data pre-processing and augmentation pipelines and training primitives for deep learning.
