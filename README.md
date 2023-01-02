@@ -50,7 +50,7 @@ These are organizations of DFKI groups and their (notable) open-source projects 
     - [DFKI AV](https://github.com/dfki-av) - DFKI's Augmented Vision Group
     - [DFKI IUI](https://github.com/dfki-iui) - DFKI's Intelligent User Interfaces Group
     - [ocrd_anybaseocr](https://github.com/OCR-D/ocrd_anybaseocr) - DFKI Layout Detection for [OCR-D](https://ocr-d.de/)
-    - [DFKI InSec](https://github.com/dfki-in-sec) - DFKI Intelligent Networks - Cyber Resilience and Security Group
+    - [DFKI IN - CRSG](https://github.com/dfki-in-sec) - DFKI Intelligent Networks - Cyber Resilience and Security Group
 
   - [DFKI Site Niedersachsen](https://github.com/DFKI-NI) - DFKI Standort Niedersachsen
 
