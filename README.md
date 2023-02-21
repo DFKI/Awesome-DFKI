@@ -39,6 +39,7 @@ These are organizations of DFKI groups and their (notable) open-source projects 
       - [PAZ](https://github.com/oarriaga/paz) - Hierarchical perception library in Python
       - [MARS](https://rock-simulation.github.io/mars/) - MARS (Machina Arte Robotum Simulans) is a cross-platform simulation and visualisation tool created for robotics research
       - [The Project Avalon](https://github.com/auv-avalon)
+      - [Project APRIL](https://github.com/aprilprojecteu/) - The APRIL project (multipurpose robotics for mAniPulation of defoRmable materIaLs in manufacturing processes) is developing autonomous, dexterous and market-oriented robot prototypes to innovate the manufacturing of flexible and deformable materials in European enterprises. DFKI RIC is one of the partners in this project funded by the European Commission.
     - [DFKI CPS](https://github.com/DFKI-CPS) - DFKI's Cyber-Physical Systems Group
       - [B-Human](https://github.com/bhuman)
       - [SimRobot](https://github.com/bhuman/SimRobot) - A physical robotics simulator
