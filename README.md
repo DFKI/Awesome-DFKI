@@ -25,7 +25,7 @@ These are organizations of DFKI groups and their (notable) open-source projects 
 
   - DFKI Site Bremen - DFKI Standort Bremen
 
-    - [DFKI RIC](https://github.com/dfki-ric) - DFKI's Robotics Innovation Center - [List of maintained OSS projects by DFKI RIC](https://dfki-ric.github.io/)
+    - [DFKI RIC](https://github.com/dfki-ric) - DFKI's Robotics Innovation Center
       - [ROCK](https://www.rock-robotics.org/) - the Robot Construction Kit
       - [Alexander Fabisch](https://github.com/AlexanderFabisch)
         - [Gaussian Mixture Regression](https://github.com/AlexanderFabisch/gmr)
